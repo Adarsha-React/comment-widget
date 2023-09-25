@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div>
-      <h1>Comment Widget Application</h1>
+      <h1 className="font-bold bg-slate-400">Comment Widget Application</h1>
     </div>
   );
 };
