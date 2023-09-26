@@ -5,7 +5,7 @@ import Body from "./components/Body";
 
 const AppLayout = () => {
   return (
-    <div className="w-1/2 mx-auto">
+    <div className="w-1/2 mx-auto font-mono">
       <Header />
       <Body />
     </div>
